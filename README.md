@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&theme=tokyonight)](https://github.com/wrrnlim)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/wrrnlim)
 
 
 <!--
