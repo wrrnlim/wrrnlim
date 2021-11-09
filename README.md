@@ -32,6 +32,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40" title="Adobe Photoshop"/> </a> 
 <a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40" title="Adobe Illustrator"/></a> 
 <a href="https://www.vegascreativesoftware.com/ca/vegas-pro/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="vegas pro" width="40" height="40" title="VEGAS Pro"/> </a>
+<a href="https://office.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="microsoft office" width="40" height="40" title="Microsoft Office"/> </a>
 <a href="https://www.microsoft.com/en-ca/microsoft-365/access" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" alt="microsoft access" width="40" height="40" title="Microsoft Access"/> </a>
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="Microsoft Power BI" width="40" height="40" title="Microsoft Power BI"/> </a></p>
 
