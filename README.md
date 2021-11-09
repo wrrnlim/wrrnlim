@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wrrnlim&label=Profile%20views&color=ffca56&style=flat" alt="wrrnlim" /> </p>
+
 [![Warren's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
