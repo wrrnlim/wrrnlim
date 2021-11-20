@@ -34,7 +34,8 @@
 <a href="https://www.vegascreativesoftware.com/ca/vegas-pro/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="vegas pro" width="40" height="40" title="VEGAS Pro"/> </a>
 <a href="https://office.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="microsoft office" width="40" height="40" title="Microsoft Office"/> </a>
 <a href="https://www.microsoft.com/en-ca/microsoft-365/access" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" alt="microsoft access" width="40" height="40" title="Microsoft Access"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="Microsoft Power BI" width="40" height="40" title="Microsoft Power BI"/> </a></p>
+<a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="Microsoft Power BI" width="40" height="40" title="Microsoft Power BI"/> </a>
+<a href="https://www.microsoft.com/en-ca/microsoft-365/project/project-management-software" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="Microsoft Project" width="40" height="40" title="Microsoft Project"/> </a></p>
 
 <!--
 **wrrnlim/wrrnlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
