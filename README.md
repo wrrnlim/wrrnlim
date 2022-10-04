@@ -1,4 +1,11 @@
-[![Warren's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&hide_border=true&bg_color=0b1531&title_color=fa8d28&text_color=fefefe&icon_color=fa8d28)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&hide_border=true&bg_color=0b1531&title_color=fa8d28&text_color=fefefe&icon_color=fa8d28" alt="wrrnlim's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=wrrnlim&theme=highcontrast&hide_border=true&background=0b1531" alt="wrrnlim's GitHub streak"/>
+  </a>
+</p>
 
 ### Languages ###
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> </a>
