@@ -25,7 +25,7 @@
 ### Tools ###
 <a href="https://www.github.com/" target="_blank"> <img src="https://simpleicons.org/icons/github.svg" alt="github" width="40" height="40" title="GitHub"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/> </a>
-<a href="https://docs.microsoft.com/en-us/windows/wsl/about" target="_blank"> <img src="https://simpleicons.org/icons/windowsterminal.svg" alt="windows subsystem for linux" width="40" height="40" title="Windows Subsystem for Linux (WSL)"/> </a>
+<a href="https://docs.microsoft.com/en-us/windows/wsl/about" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" alt="windows subsystem for linux" width="40" height="40" title="Windows Subsystem for Linux (WSL)"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> </a>
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite"/> </a>
