@@ -22,7 +22,7 @@
 <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" title="Cypress"/> </a>
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/wrrnlim/wrrnlim/main/icons/selenium.svg" alt="selenium" width="40" height="40" title="Selenium"/> </a>
 
-### Tools ###
+### Services/Tools ###
 <a href="https://www.github.com/" target="_blank"> <img src="https://simpleicons.org/icons/github.svg" alt="github" width="40" height="40" title="GitHub"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/> </a>
 <a href="https://docs.microsoft.com/en-us/windows/wsl/about" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png" alt="windows subsystem for linux" width="40" height="40" title="Windows Subsystem for Linux (WSL)"/> </a>
