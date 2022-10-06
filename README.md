@@ -30,7 +30,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/> </a>
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="asana" width="40" height="40" title="Jira"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="asana" width="40" height="40" title="Jira"/> </a>
 <a href="https://asana.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/asana/images/cae029cc-73d9-4b0d-83e2-70893c439061.svg" alt="asana" width="40" height="40" title="Asana"/> </a>
 <a href="https://developers.google.com/apps-script" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Apps_Script.png" alt="google apps script" width="40" height="40" title="Google Apps Script"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/> </a> 
