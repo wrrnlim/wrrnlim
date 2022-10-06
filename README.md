@@ -1,9 +1,9 @@
 <p align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&hide_border=true&bg_color=0b1531&title_color=fa8d28&text_color=fefefe&icon_color=fa8d28" alt="wrrnlim's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&hide_border=true&bg_color=1b2931&title_color=d2b694&text_color=b2bec6&icon_color=70b6be" alt="wrrnlim's GitHub Stats"/>
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=wrrnlim&theme=highcontrast&hide_border=true&background=0b1531" alt="wrrnlim's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com/?user=wrrnlim&theme=noctis-minimus&hide_border=true" alt="wrrnlim's GitHub streak"/>
   </a>
 </p>
 
