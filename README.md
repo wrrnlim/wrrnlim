@@ -15,8 +15,10 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/> </a>
 
-### Frameworks ###
+### Frameworks/Libraries ###
 <a href="https://www.electronjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="electron" width="40" height="40" title="Electron JS"/> </a>
+<a href="https://www.reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" width="40" height="40" title="React JS"/> </a>
+<a href="https://www.vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" width="40" height="40" title="Vue JS"/> </a>
 
 ### Testing ###
 <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" title="Cypress"/> </a>
@@ -45,18 +47,3 @@
 <a href="https://www.microsoft.com/en-ca/microsoft-365/access" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282019-present%29.svg" alt="microsoft access" width="40" height="40" title="Microsoft Access"/> </a>
 <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/2/20/Power_BI_logo.svg" alt="Microsoft Power BI" width="40" height="40" title="Microsoft Power BI"/> </a>
 <a href="https://www.microsoft.com/en-ca/microsoft-365/project/project-management-software" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg" alt="Microsoft Project" width="40" height="40" title="Microsoft Project"/> </a></p>
-
-<!--
-**wrrnlim/wrrnlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
