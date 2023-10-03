@@ -3,7 +3,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&hide_border=true&bg_color=242935&title_color=ffc058&text_color=b2bec6&icon_color=ffc058" alt="wrrnlim's GitHub Stats"/>
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=wrrnlim&hide_border=true&background=242935&ring=FFC058&currStreakNum=FFC058&sideLabels=C1CAC2&currStreakLabel=FFC058&fire=FFC058&sideNums=FFC058&dates=C1CAC2&stroke=C1CAC2" alt="wrrnlim's GitHub streak"/>
+    <img src="https://github-readme-streak-stats-beryl.vercel.app/?user=wrrnlim&hide_border=true&background=242935&ring=FFC058&currStreakNum=FFC058&sideLabels=C1CAC2&currStreakLabel=FFC058&fire=FFC058&sideNums=FFC058&dates=C1CAC2&stroke=C1CAC2" alt="wrrnlim's GitHub streak"/>
   </a>
 </p>
 
