@@ -2,9 +2,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&hide_border=true&bg_color=242935&title_color=ffc058&text_color=b2bec6&icon_color=ffc058" alt="wrrnlim's GitHub Stats"/>
   </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-beryl.vercel.app/?user=wrrnlim&hide_border=true&background=242935&ring=FFC058&currStreakNum=FFC058&sideLabels=C1CAC2&currStreakLabel=FFC058&fire=FFC058&sideNums=FFC058&dates=C1CAC2&stroke=C1CAC2" alt="wrrnlim's GitHub streak"/>
-  </a>
 </p>
 
 ### Languages ###
@@ -33,7 +30,6 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="asana" width="40" height="40" title="Jira"/> </a>
-<a href="https://asana.com/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/asana/images/cae029cc-73d9-4b0d-83e2-70893c439061.svg" alt="asana" width="40" height="40" title="Asana"/> </a>
 <a href="https://developers.google.com/apps-script" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Apps_Script.png" alt="google apps script" width="40" height="40" title="Google Apps Script"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" title="Figma"/> </a>
