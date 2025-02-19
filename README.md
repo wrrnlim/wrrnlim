@@ -26,7 +26,7 @@
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" height="40" title="Node JS"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1747872000&v=beta&t=OBB7c4L63DkTcjCBbZ_dHE4TjY7XEHFebPTveb2aGqQ" alt="amazon web services" height="40" title="Amazon Web Services"/> </a>
 <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Apps_Script.png" alt="google apps script" height="40" title="Google Apps Script"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="40" title="Firebase"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./icons/firebase.svg" alt="firebase" height="40" title="Firebase"/> </a>
 <a href="https://docs.microsoft.com/en-us/windows/wsl/about" target="_blank" rel="noreferrer"> <img src="https://store-images.s-microsoft.com/image/apps.61786.14131597032361940.38d2a067-3798-455f-934a-f69935156b3d.eb49d3ac-e311-4e6f-b89b-f1fe8db9d73b" alt="windows subsystem for linux" height="40" title="Windows Subsystem for Linux (WSL)"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40" title="Linux"/> </a>
 
@@ -45,7 +45,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" title="MongoDB"/> </a>
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" title="Jira"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40" title="Figma"/> </a>
-<a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wrrnlim/wrrnlim/main/icons/slack.svg" alt="slack" height="40" title="Slack"/> </a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="./icons/slack.svg" alt="slack" height="40" title="Slack"/> </a>
 
 ### Software ###
 
