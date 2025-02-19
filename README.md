@@ -43,7 +43,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" title="Postman"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40" title="SQLite"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" title="MongoDB"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" alt="asana" height="40" title="Jira"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="40" title="Jira"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40" title="Figma"/> </a>
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wrrnlim/wrrnlim/main/icons/slack.svg" alt="slack" height="40" title="Slack"/> </a>
 
