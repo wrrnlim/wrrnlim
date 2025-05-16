@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Warren</h1>
 <h3 align="center">Software developer with a degree in computer science + business</h3>
+<h1 />
 
 ### Languages ###
 
