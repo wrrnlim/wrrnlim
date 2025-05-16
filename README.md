@@ -1,8 +1,5 @@
-<p align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=wrrnlim&show_icons=true&hide_border=true&bg_color=242935&title_color=ffc058&text_color=b2bec6&icon_color=ffc058" alt="wrrnlim's GitHub Stats"/>
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Warren</h1>
+<h3 align="center">Software developer with a degree in computer science + business</h3>
 
 ### Languages ###
 
@@ -52,3 +49,4 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="40" title="Adobe Photoshop"/> </a> 
 <a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="40" title="Adobe Illustrator"/></a> 
 <a href="https://www.vegascreativesoftware.com/ca/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="vegas pro" height="40" title="VEGAS Pro"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code" height="40" title="VSCode"/> </a>
