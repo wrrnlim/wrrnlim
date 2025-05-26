@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Warren</h1>
 <h3 align="center">Software developer with a degree in computer science + business</h3>
-<h1 />
+<p align="center">I'm passionate about building applications with real-world impact</p>
 
+<h1 />
+  
 ### Languages ###
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40" title="JavaScript"/> </a>
