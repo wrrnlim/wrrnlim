@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Warren</h1>
 <h3 align="center">Software developer with a degree in computer science + business</h3>
-<p align="center">I'm passionate about building applications with real-world impact</p>
+<p align="center">I'm passionate about building applications with real-world impact, bridging business and tech</p>
 
 <h1 />
   
