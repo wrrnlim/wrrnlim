@@ -18,6 +18,7 @@
 
 <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="reactjs" height="40" title="React JS"/> </a>
 <a href="https://www.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vuejs" height="40" title="Vue JS"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" height="40" title="Next JS"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="bootstrap" height="40" title="Bootstrap"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" height="40" title="TailwindCSS"/> </a>
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="electron" height="40" title="Electron JS"/> </a>
