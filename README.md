@@ -26,7 +26,7 @@
 ### Platforms/Environments ###
 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" height="40" title="Node JS"/> </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1753315200&v=beta&t=ggZdPnki2dN4tk0jG6tP3_FtqYMfOUG6osIYl7jEjCk" alt="amazon web services" height="40" title="Amazon Web Services"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idVoqFQ-78/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1691083841359" alt="amazon web services" height="40" title="Amazon Web Services"/> </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" alt="vercel" height="40" title="Vercel"/> </a>
 <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Apps_Script.png" alt="google apps script" height="40" title="Google Apps Script"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./icons/firebase.svg" alt="firebase" height="40" title="Firebase"/> </a>
