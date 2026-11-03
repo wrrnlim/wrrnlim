@@ -43,7 +43,7 @@
 
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"> <img src="https://simpleicons.org/icons/github.svg" alt="github" height="40" title="GitHub"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40" title="Git"/> </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="vite" height="40" title="Vite"/></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Vite_Logo_2026.svg/1920px-Vite_Logo_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="vite" height="40" title="Vite"/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" title="Postman"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40" title="SQLite"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" alt="mongodb" height="40" title="MongoDB"/> </a>
